@@ -12,7 +12,7 @@ from aiogram.utils import executor
 # Создадим экземпляры бота и диспетчера:
 
 
-bot = Bot(token='7088638221:AAHV6NwH_q265csV-5fvW6DTSpSzgpQASEk')
+bot = Bot(token='token')
 dp = Dispatcher(bot)
 
 
